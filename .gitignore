@@ -1,0 +1,20 @@
+# Compiled files
+organizer
+organizer.exe
+a.out
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Build folders
+build/
+cmake-build-*/
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
